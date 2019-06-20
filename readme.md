@@ -1,9 +1,6 @@
 ﻿
-## 1/ - lesson 1:Looping a triangle
 
-### Mục lục
-
-[I. Mở đầu](#Modau)
+[1/ - lesson 1:Looping a triangle](#Modau)
 
 [II. Ngôn ngữ Markdown](#ngonngumarkdown)
 - [1. Thẻ tiêu đề](#thetieude)
