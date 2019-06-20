@@ -1,6 +1,17 @@
 ﻿
 
 [1/ - lesson 1:Looping a triangle](#Modau)
+- [ write one function have: ](#thetieude)
+- [+ input: n(call's number of a loop)](#chenlinkchenanh)
+- [to print on screen's console one triango as bellow](#kytuindaminnghieng)
+- [n = 7](#trichdanbochu)
+- [#](#gachdaudong)
+- [##](#taobang)
+- [###](#meo)
+- [####](#gachdaudong)
+- [#####](#taobang)
+- [######](#meo)
+- [#######](#meo)	
 
 [II. Ngôn ngữ Markdown](#ngonngumarkdown)
 - [1. Thẻ tiêu đề](#thetieude)
