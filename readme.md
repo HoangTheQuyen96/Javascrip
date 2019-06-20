@@ -1,22 +1,16 @@
-**1/ - lesson 1:Looping a triangle**
-    *write one function have: 
-        *+ input: n(call's number of a loop)
-    *to print on screen's console one triango as bellow
-    *n = 7
-        *#
-        *##
-        *###
-        *####
-        *#####
-        *######
-        *#######
-**2/ Chessboard**
-    *write a program that generate a string is an 8×8 grid as bellow: 
-      *# # # #
-    *# # # #
-      *# # # #
-    *# # # #
-      *# # # #
-    *# # # #
-      *# # # #
-    *# # # #
+﻿
+## 1/ - lesson 1:Looping a triangle
+
+### Mục lục
+
+[I. Mở đầu](#Modau)
+
+[II. Ngôn ngữ Markdown](#ngonngumarkdown)
+- [1. Thẻ tiêu đề](#thetieude)
+- [2. Chèn link, chèn ảnh](#chenlinkchenanh)
+- [3. Ký tự in đậm, in nghiêng](#kytuindaminnghieng)
+- [4. Trích dẫn, bo chữ](#trichdanbochu)
+- [5. Gạch đầu dòng](#gachdaudong)
+- [6. Tạo bảng](#taobang)
+- [Mẹo](#meo)
+	
